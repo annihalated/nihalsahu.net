@@ -1,5 +1,5 @@
-<div class="navbar-start">
+<nav>
     {{ range .Site.Menus.main }}
-    <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+    <a href="{{ .URL }}" class="nav-item">{{ .Name }}</a>
     {{ end }}
-</div>
+</nav>
