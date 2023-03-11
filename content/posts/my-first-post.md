@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-03-12T02:44:58+05:30
-draft: true
+draft: false
 ---
 iLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor justo sed lacus interdum, ac egestas turpis lobortis. Ut pulvinar tincidunt tincidunt. Curabitur bibendum mauris id tincidunt pharetra. Praesent urna arcu, suscipit quis nibh in, ultrices placerat eros. Mauris at purus arcu. In blandit pretium egestas. Pellentesque ante lacus, mattis et leo vel, convallis malesuada metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean id risus et justo semper pellentesque nec sit amet purus. Pellentesque cursus eget turpis sed lacinia.
 
