@@ -1,9 +1,13 @@
-* {
+html {
     font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+    font-weight: 400;
+    color: #222;
+    font-size: 16px;
+    line-height: 130%;
 }
 
 body {
-    max-width: 600px;
-    padding: 0 10px;
+    max-width: 38rem;
+    padding: 1rem 1rem;
     margin: 0 auto;
 }
