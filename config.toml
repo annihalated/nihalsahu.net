@@ -1,3 +1,4 @@
 baseURL = 'https://bejewelled-meerkat-aa1da9.netlify.app/'
 languageCode = 'en-us'
 title = 'Nihal Sahu'
+theme = 'nihalsahu.net'
