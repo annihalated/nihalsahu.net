@@ -13,3 +13,6 @@ theme = 'nihalsahu.net'
     name = "Posts"
     url = "/posts/"
     weight = 2
+
+[markup.goldmark.renderer]
+unsafe= true
