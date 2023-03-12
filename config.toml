@@ -10,8 +10,8 @@ theme = 'nihalsahu.net'
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Essays"
+    url = "/essays/"
     weight = 2
 
 [markup.goldmark.renderer]

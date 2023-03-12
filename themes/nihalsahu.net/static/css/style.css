@@ -45,3 +45,9 @@ a {
     overflow-y: auto;
     font-size: 14px;
 }
+
+.metadata-box {
+    padding: 0.5rem;
+    font-style: italic;
+    border: 1px black dotted;
+}

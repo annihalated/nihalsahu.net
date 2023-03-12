@@ -1,15 +1,16 @@
 ---
 title: Government Health Spending in India
-excerpt: "Everyone knows that India's public healthcare is an embarassment because India spends an embarassingly low percentage of its GDP on health. I ask the more interesting question: why don't they spend more?"
+tldr: "It's hard to move the needle on Government Health Spending (GHS) in India because: (i) the responsibilities and the fiscal capabilities in the federal structure are mismatched [e.g., the finance commission does not make health a priority]; (ii) the poorest states have the worst healthcare; (iii) and the bureacuracy is too slow."
+confidence: medium
 ---
-
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67d4a026-492d-4e66-ab6d-98f46cf9abb9_1456x1028.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67d4a026-492d-4e66-ab6d-98f46cf9abb9_1456x1028.png)
-
-Source: Our World in Data ([link](https://ourworldindata.org/grapher/public-health-expenditure-share-GDP-OWID?time=1920..latest&country=IND~CHN))
 
 **I.**
 
 Governments usually spend more on healthcare as they become richer. Between 2000-2018, India's GDP grew from $468 billion to $2.7 trillion. In the same period, Chinese Government Health Spending (GHS) grew from one percent to nearly three percent of GDP. In India, however, GHS stagnated at around one percent. 
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67d4a026-492d-4e66-ab6d-98f46cf9abb9_1456x1028.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67d4a026-492d-4e66-ab6d-98f46cf9abb9_1456x1028.png)
+
+Source: Our World in Data ([link](https://ourworldindata.org/grapher/public-health-expenditure-share-GDP-OWID?time=1920..latest&country=IND~CHN))
 
 As a result, India has one of the [lowest public health budgets in the world](https://timesofindia.indiatimes.com/india/indias-health-budget-fourth-lowest-in-world-oxfam/articleshow/78597933.cms) relative to the size of its economy. But why? Health and education, Amartya Sen keeps telling us, are [central to sustained economic growth](https://www.theguardian.com/society/2015/jan/06/-sp-universal-healthcare-the-affordable-dream-amartya-sen). This is, of course, a product of the slightly important fact that people end up living longer, healthier lives.  Why wouldn't India want a thriving, healthy middle class and profit from that demographic dividend everyone keeps talking about?
 
