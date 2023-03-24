@@ -9,10 +9,6 @@ theme = 'nihalsahu.net'
     pre = "home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    name = "Essays"
-    url = "/essays/"
-    weight = 2
 
 [markup.goldmark.renderer]
 unsafe= true
