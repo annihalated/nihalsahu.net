@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 html {
-    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-    font-weight: 400;
+    font-family: 'Titillium Web', BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
     color: #222;
     font-size: 16px;
+    line-height: 1.2;
 }
 
 body {
@@ -31,23 +32,17 @@ h1, h2, h3, h4, h5, h6 {
     display: inline;
 }
 
-img {
-    max-width:100%
-}
-
-blockquote {
-    font-size: 16px;
-}
-
-a {
+a, a:visited {
+    color: #1A0DAB;
     text-decoration: none;
-    border-bottom: 1px dotted;
 }
 
-.metadata-box {
-    padding: 0.5rem;
-    font-style: italic;
-    border: 1px black dotted;
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
-
-

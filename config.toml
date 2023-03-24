@@ -5,7 +5,7 @@ theme = 'nihalsahu.net'
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "home"
     pre = "home"
     url = "/"
     weight = 1
