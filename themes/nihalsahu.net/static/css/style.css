@@ -46,3 +46,10 @@ ul {
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
+
+blockquote {
+    background: #f8f8f8;
+    border: 0.1px solid black;
+    margin-left: 2rem;
+    padding: 5px 20px 5px 1rem;
+}
