@@ -10,4 +10,3 @@ draft: false
 - [http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
 - [What I’ve Learnt So Far About Writing Research Papers](https://tratt.net/laurie/blog/2018/what_ive_learnt_so_far_about_writing_research_papers.html)
 - [Using Emacs, Org-mode and R for Research Writing in Social Sciences](https://github.com/vikasrawal/orgpaper/blob/master/orgpapers.org)
-- 
