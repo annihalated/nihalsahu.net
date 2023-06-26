@@ -4,11 +4,6 @@ title = 'Nihal Sahu'
 theme = 'nihalsahu.net'
 
 [menu]
-  [[menu.main]]
-    name = "home"
-    pre = "home"
-    url = "/"
-    weight = 1
 
   [[menu.main]]
     name = "essays"
